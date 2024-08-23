@@ -19,9 +19,6 @@
          <p><strong>Boss Battles</strong>: Test your skills against fearsome bosses that require strategic thinking and precise timing to defeat.</p>
       </li>
       <li>
-         <p><strong>Multiple Characters</strong>: Choose from a variety of characters, each with their own unique abilities and playstyles, providing different strategies and experiences with each playthrough.</p>
-      </li>
-      <li>
          <p><strong>Dark and Atmospheric Visuals</strong>: The game features a grim, gothic art style that perfectly complements its hellish setting, with atmospheric music and sound effects to enhance the tension.</p>
       </li>
    </ul>
